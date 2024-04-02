@@ -1,0 +1,11 @@
+github.com/cdipaolo/goml v0.0.0-20161030204843-e2d8def04c9a h1:+8ndgVCRTyBJKTxfdzvDi2p7I+5ahjA7NRhlH7mNfIA=
+github.com/cdipaolo/goml v0.0.0-20161030204843-e2d8def04c9a/go.mod h1:sduMkaHcXDIWurl/Bd/z0rNEUHw5tr6LUA9IO8E9o0o=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/shixzie/nlp v0.0.0-20170918143203-39fec05b9991 h1:66B7Y7BO+bGWNXH7axZMSDT7I3/Kgb1YbD/Kq9D4CCc=
+github.com/shixzie/nlp v0.0.0-20170918143203-39fec05b9991/go.mod h1:jXBbAh6jAyQDvyf4TrEckKrHT6okkiEDYaIBGys3gIc=
+github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
+github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
+golang.org/x/text v0.0.0-20170630100924-2bf8f2a19ec0 h1:M4kywXOhV3F38kTr0IZZYueKhR5dVnpaVmGSeYrklJY=
+golang.org/x/text v0.0.0-20170630100924-2bf8f2a19ec0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
